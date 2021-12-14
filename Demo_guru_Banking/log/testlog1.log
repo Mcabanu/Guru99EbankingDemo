@@ -1,0 +1,64 @@
+2021-12-14 10:35:58,104 [main] INFO eBanking - URL is opened
+2021-12-14 10:35:59,070 [main] INFO eBanking - Entered username
+2021-12-14 10:35:59,271 [main] INFO eBanking - Entered password
+2021-12-14 10:36:01,589 [main] INFO eBanking - login test passed
+2021-12-14 10:36:04,596 [main] INFO eBanking - Providing Customer Details
+2021-12-14 10:36:06,283 [main] INFO eBanking - New Customer page found
+2021-12-14 10:36:16,768 [main] INFO eBanking - Validation Started..
+2021-12-14 10:36:16,809 [main] INFO eBanking - Customer added Successfully 
+2021-12-14 10:36:33,276 [main] INFO eBanking - URL is opened
+2021-12-14 10:36:33,512 [main] INFO eBanking - Entered username
+2021-12-14 10:36:33,648 [main] INFO eBanking - Entered password
+2021-12-14 10:36:35,986 [main] INFO eBanking - login test passed
+2021-12-14 10:36:39,394 [main] INFO eBanking - logout Sucessed
+2021-12-14 10:42:08,467 [main] INFO eBanking - URL is opened
+2021-12-14 10:42:08,693 [main] INFO eBanking - Entered username
+2021-12-14 10:42:08,823 [main] INFO eBanking - Entered password
+2021-12-14 10:42:11,700 [main] INFO eBanking - login test passed
+2021-12-14 10:42:14,709 [main] INFO eBanking - Providing Customer Details
+2021-12-14 10:42:15,867 [main] INFO eBanking - New Customer page found
+2021-12-14 10:42:25,651 [main] INFO eBanking - Validation Started..
+2021-12-14 10:42:25,668 [main] INFO eBanking - Customer added Successfully 
+2021-12-14 10:42:38,259 [main] INFO eBanking - URL is opened
+2021-12-14 10:42:38,450 [main] INFO eBanking - Entered username
+2021-12-14 10:42:38,614 [main] INFO eBanking - Entered password
+2021-12-14 10:42:40,916 [main] INFO eBanking - login test passed
+2021-12-14 10:42:42,483 [main] INFO eBanking - logout Sucessed
+2021-12-14 11:02:07,547 [main] INFO eBanking - URL is opened
+2021-12-14 11:02:08,759 [main] INFO eBanking - Entered username
+2021-12-14 11:02:09,114 [main] INFO eBanking - Entered password
+2021-12-14 11:02:12,079 [main] INFO eBanking - login test passed
+2021-12-14 11:02:15,085 [main] INFO eBanking - Providing Customer Details
+2021-12-14 11:02:16,808 [main] INFO eBanking - New Customer page found
+2021-12-14 11:02:27,159 [main] INFO eBanking - Validation Started..
+2021-12-14 11:02:39,830 [main] INFO eBanking - URL is opened
+2021-12-14 11:02:39,977 [main] INFO eBanking - Entered username
+2021-12-14 11:02:40,099 [main] INFO eBanking - Entered password
+2021-12-14 11:02:42,414 [main] INFO eBanking - login test passed
+2021-12-14 11:02:43,869 [main] INFO eBanking - logout Sucessed
+2021-12-14 11:16:12,878 [main] INFO eBanking - URL is opened
+2021-12-14 11:16:13,075 [main] INFO eBanking - Entered username
+2021-12-14 11:16:13,197 [main] INFO eBanking - Entered password
+2021-12-14 11:16:15,704 [main] INFO eBanking - login test passed
+2021-12-14 11:16:18,713 [main] INFO eBanking - Providing Customer Details
+2021-12-14 11:16:19,923 [main] INFO eBanking - New Customer page found
+2021-12-14 11:16:29,124 [main] INFO eBanking - Validation Started..
+2021-12-14 11:16:29,144 [main] INFO eBanking - Customer added Successfully 
+2021-12-14 11:16:40,142 [main] INFO eBanking - URL is opened
+2021-12-14 11:16:40,286 [main] INFO eBanking - Entered username
+2021-12-14 11:16:40,407 [main] INFO eBanking - Entered password
+2021-12-14 11:16:43,202 [main] INFO eBanking - login test passed
+2021-12-14 11:16:44,530 [main] INFO eBanking - logout Sucessed
+2021-12-14 11:31:37,775 [main] INFO eBanking - URL is opened
+2021-12-14 11:31:37,967 [main] INFO eBanking - Entered username
+2021-12-14 11:31:38,090 [main] INFO eBanking - Entered password
+2021-12-14 11:31:40,050 [main] INFO eBanking - login test passed
+2021-12-14 11:31:43,060 [main] INFO eBanking - Providing Customer Details
+2021-12-14 11:31:44,211 [main] INFO eBanking - New Customer page found
+2021-12-14 11:31:53,932 [main] INFO eBanking - Validation Started..
+2021-12-14 11:31:53,958 [main] INFO eBanking - Customer added Successfully 
+2021-12-14 11:32:04,676 [main] INFO eBanking - URL is opened
+2021-12-14 11:32:04,822 [main] INFO eBanking - Entered username
+2021-12-14 11:32:04,941 [main] INFO eBanking - Entered password
+2021-12-14 11:32:07,776 [main] INFO eBanking - login test passed
+2021-12-14 11:32:09,412 [main] INFO eBanking - logout Sucessed

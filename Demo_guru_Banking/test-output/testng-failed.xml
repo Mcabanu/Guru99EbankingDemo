@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Utilities.Reporting"/>
+  </listeners>
+  <test name="EBanking(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Testcases.TestCases_003">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="AddNewAccount"/>
+        </methods>
+      </class> <!-- Testcases.TestCases_003 -->
+      <class name="Testcases.TestCases_001">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- Testcases.TestCases_001 -->
+      <class name="Testcases.TestCases_DDT">
+        <methods>
+          <include name="tearDown"/>
+          <include name="loginDDT" invocation-numbers="1"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- Testcases.TestCases_DDT -->
+      <class name="Testcases.TestCases_002">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- Testcases.TestCases_002 -->
+    </classes>
+  </test> <!-- EBanking(failed) -->
+</suite> <!-- Failed suite [Suite] -->

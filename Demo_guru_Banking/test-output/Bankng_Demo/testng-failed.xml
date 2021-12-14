@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Bankng_Demo]">
+  <listeners>
+    <listener class-name="Utilities.Reporting"/>
+  </listeners>
+  <test name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="Testcases.TestCases_003">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="AddNewAccount"/>
+        </methods>
+      </class> <!-- Testcases.TestCases_003 -->
+      <class name="Testcases.TestCases_002">
+        <methods>
+          <include name="tearDown"/>
+          <include name="addNewCustomer"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- Testcases.TestCases_002 -->
+      <class name="Testcases.TestCases_001">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- Testcases.TestCases_001 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Bankng_Demo] -->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="53105" started-at="2021-12-14T05:11:50Z" finished-at="2021-12-14T05:12:43Z">
+    <groups>
+    </groups>
+    <test name="EBanking" duration-ms="53105" started-at="2021-12-14T05:11:50Z" finished-at="2021-12-14T05:12:43Z">
+      <class name="Testcases.TestCases_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Testcases.TestCases_001@15530b9]" name="setup" is-config="true" duration-ms="9860" started-at="2021-12-14T10:42:26Z" finished-at="2021-12-14T10:42:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:Testcases.TestCases_001@15530b9]" name="loginTest" duration-ms="5636" started-at="2021-12-14T10:42:36Z" finished-at="2021-12-14T10:42:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Testcases.TestCases_001@15530b9]" name="tearDown" is-config="true" duration-ms="781" started-at="2021-12-14T10:42:42Z" finished-at="2021-12-14T10:42:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcases.TestCases_001 -->
+      <class name="Testcases.TestCases_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Testcases.TestCases_002@198378d]" name="setup" is-config="true" duration-ms="16098" started-at="2021-12-14T10:41:50Z" finished-at="2021-12-14T10:42:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:Testcases.TestCases_002@198378d]" name="addNewCustomer" duration-ms="18998" started-at="2021-12-14T10:42:06Z" finished-at="2021-12-14T10:42:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Testcases.TestCases_002@198378d]" name="tearDown" is-config="true" duration-ms="1299" started-at="2021-12-14T10:42:25Z" finished-at="2021-12-14T10:42:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcases.TestCases_002 -->
+    </test> <!-- EBanking -->
+  </suite> <!-- Suite -->
+</testng-results>
