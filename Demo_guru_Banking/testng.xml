@@ -7,10 +7,14 @@
   <test name="EBanking">
   <parameter name="browser" value="chrome" />
     <classes>
-    <!--   <class name="Testcases.TestCases_003"/> -->  
+     <class name="Testcases.NewTestCases_001"/> 
+    
+   <!--  <class name="Testcases.TestCases_001"/>
+     
+      <class name="Testcases.TestCases_003"/> 
        <class name="Testcases.TestCases_002"/> 
-       <class name="Testcases.TestCases_001"/>   
-    <!--    <class name="Testcases.TestCases_DDT" /> -->  
+         
+       <class name="Testcases.TestCases_DDT" /> -->  
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
