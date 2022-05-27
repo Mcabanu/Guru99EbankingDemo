@@ -3,12 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="TestCases.TestForBlogSpot">
+      <class name="listeners.DemoForAncortag">
         <methods>
-          <include name="launchBrowser"/>
-          <include name="window"/>
+          <include name="main"/>
         </methods>
-      </class> <!-- TestCases.TestForBlogSpot -->
+      </class> <!-- listeners.DemoForAncortag -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
